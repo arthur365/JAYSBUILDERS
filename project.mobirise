@@ -44,7 +44,7 @@
       "settings": {
         "main": true,
         "title": "ABOUT US",
-        "meta_descr": "Jays builders no job to small",
+        "meta_descr": "ABOUT US",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -891,7 +891,7 @@
     },
     "httpsarthur365.github.ioJAYSBUILDERSpage1.html.html": {
       "settings": {
-        "meta_descr": "HOME TO BUILDING",
+        "meta_descr": "HOME ",
         "title": "HOME",
         "order": 1
       },
