@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jay's Billders UK",
-    "currentPage": "httpsarthur365.github.ioJAYSBUILDERSpage2.html.html",
+    "currentPage": "httpsarthur365.github.ioJAYSBUILDERShttpsarthur365.github.ioJAYSBUILDERSpage2.html.html.github.ioJAYSBUILDERSpage2.html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 17,
+    "uniqCompNum": 20,
     "versionPublish": "4.2.3"
   },
   "pages": {
@@ -690,7 +690,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "ABOUT US",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1462,7 +1462,7 @@
         }
       ]
     },
-    "httpsarthur365.github.ioJAYSBUILDERSpage2.html.html": {
+    "httpsarthur365.github.ioJAYSBUILDERShttpsarthur365.github.ioJAYSBUILDERSpage2.html.html.github.ioJAYSBUILDERSpage2.html.html": {
       "settings": {
         "meta_descr": "CONTANT US FORM",
         "title": "CONTACT US HERE",
