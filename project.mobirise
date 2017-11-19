@@ -60,7 +60,11 @@
               "margin": "0 0 .5rem 0"
             },
             "H2": {
-              "color": "#fced00"
+              "color": "#fced00",
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
             }
           },
           "_name": "info2",
