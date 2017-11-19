@@ -1825,11 +1825,14 @@ body {
 }
 .cid-qBqxpO0VZf {
   padding-top: 120px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-color: #efefef;
 }
 .cid-qBqxpO0VZf .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qBqxpO0VZf H2 {
+  text-align: center;
 }
 .cid-qBqcoXe5Ca .navbar {
   padding: .5rem 0;
@@ -2208,8 +2211,8 @@ body {
   }
 }
 .cid-qBqxkVXjsV {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qBqxkVXjsV .mbr-slider .carousel-control {
