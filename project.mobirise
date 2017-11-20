@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jay's Billders UK",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1215,18 +1215,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1500-800x600.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1500-800x600.jpg",
                 "alt": "",
@@ -1265,6 +1253,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-2-640x480.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-640x480-640x480.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-3-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-640x480-640x480.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
