@@ -1882,7 +1882,7 @@ body {
   word-break: break-word;
 }
 .cid-qBqxpO0VZf {
-  padding-top: 120px;
+  padding-top: 105px;
   padding-bottom: 30px;
   background-color: #cebfaf;
 }
@@ -1891,6 +1891,10 @@ body {
 }
 .cid-qBqxpO0VZf H2 {
   text-align: center;
+  color: #69001b;
+}
+.cid-qBqxpO0VZf .mbr-section-subtitle I {
+  color: #69001b;
 }
 .cid-qBqcoXe5Ca .navbar {
   padding: .5rem 0;
